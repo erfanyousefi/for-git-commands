@@ -1,2 +1,0 @@
-hello there!
-here is new changes on new branch #feature_1
